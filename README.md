@@ -2,6 +2,7 @@
 效果如下：
 
 ![](images/img.gif)
+
 css code:
 ```
 @charset "utf-8";
